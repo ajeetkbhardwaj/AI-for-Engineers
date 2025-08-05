@@ -1,0 +1,22 @@
+artifact_path: file:///home/ajeet/Documents/Officials/AI-for-Engineers/Tools-and-Frameworks/MLFlow/mlruns/824072893854305905/models/m-96b1c648baed4222bf209c305d2f6439/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.4
+model_id: m-96b1c648baed4222bf209c305d2f6439
+model_size_bytes: 65346
+model_uuid: m-96b1c648baed4222bf209c305d2f6439
+prompts: null
+run_id: 40f00e7ce88745f48d7b1c5e6f9dfe7f
+utc_time_created: '2025-07-25 06:49:50.101762'

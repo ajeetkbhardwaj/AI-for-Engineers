@@ -1,0 +1,4 @@
+Apache Spark is an open-source, distributed computing system designed 
+or processing large-scale data quickly and efficiently. 
+It provides an intuitive programming model for working with structured and 
+unstructured data, enabling users to perform transformations and actions on datasets using high-level APIs.

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ajeet/Documents/Officials/AI-for-Engineers/Tools-and-Frameworks/MLFlow/mlruns/824072893854305905/45a32d2e31ef49138f2c56901df573e1/artifacts
+deleted_time: 1753427012538
+end_time: 1753426189087
+entry_point_name: ''
+experiment_id: '824072893854305905'
+lifecycle_stage: deleted
+run_id: 45a32d2e31ef49138f2c56901df573e1
+run_name: run_0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753426187998
+status: 3
+tags: []
+user_id: ajeet

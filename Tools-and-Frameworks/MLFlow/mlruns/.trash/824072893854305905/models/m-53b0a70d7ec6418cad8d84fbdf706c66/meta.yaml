@@ -1,0 +1,10 @@
+artifact_location: file:///home/ajeet/Documents/Officials/AI-for-Engineers/Tools-and-Frameworks/MLFlow/mlruns/824072893854305905/models/m-53b0a70d7ec6418cad8d84fbdf706c66/artifacts
+creation_timestamp: 1753426148918
+experiment_id: '824072893854305905'
+last_updated_timestamp: 1753426149925
+model_id: m-53b0a70d7ec6418cad8d84fbdf706c66
+model_type: null
+name: model
+source_run_id: 90a50ea40896440db5c6ca0fffbd86e9
+status: 2
+status_message: null
