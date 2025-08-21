@@ -2,6 +2,28 @@
 
 # Table of Contents
 
+
+# LlamaIndex -
+
+What are the use of the LlamaIndex ?
+
+1. Prompting
+2. RAG Systems
+3. AI-ChatBots
+4. Structured Data Extraction from Unstructured Data
+5. Fine-Tuning Models for Specific Tasks
+6. Multi-Model Applications
+7. AI-Agents
+
+# AutoGen - AI Agentic Framework
+
+> AutoGen provide abstraction to build llm application with conversable-multi-agents desiged to solve complex task through inter agentic conversations.
+>
+> 1. Conversable - Agents can do inter conversation among them via sending and recieving messages.
+> 2. Customization - Agents can be customized to integrate llms, tools, human or a combination of them
+
+What are the use of AutoGen ?
+
 ## Ch-1 : Running LLMs
 
 How to run the LLMs ?

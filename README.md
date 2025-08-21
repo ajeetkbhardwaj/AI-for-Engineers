@@ -1,7 +1,5 @@
 # AI for Engineers
 
-
-
 ### Core Components of an LLM Application
 
 1. Adding RAG (Retrieval-Augmented Generation): This is a key technique for connecting an LLM to your specific data. The process includes:
@@ -17,3 +15,14 @@
    - Multi-Agent Systems: Using AgentWorkflow to enable multiple agents to collaborate.
    - Control Flow: Implementing logic like looping, branching, and concurrent execution.
    - State Management: Creating stateful workflows that remember information across steps.
+
+## Resources
+
+### 1.  Machine Learning Systems
+
+[0]. https://github.com/Nyandwi/machine_learning_complete/blob/main/010_mlops/1_mlops_guide.md
+[1]. https://dcai.csail.mit.edu/
+[2]. DataCentricAI : https://youtube.com/playlist?list=PLnSYPjg2dHQKdig0vVbN-ZnEU0yNJ1mo5&si=OyEQkZEEO3AqKw0j
+[3]. https://madewithml.com/
+[4]. https://stanford-cs329s.github.io/
+[5]. https://fullstackdeeplearning.com/

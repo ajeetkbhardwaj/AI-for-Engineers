@@ -1,0 +1,5 @@
+langchain-mcp-adapters[fastmcp,http]
+langchain-openai
+langgraph
+python-dotenv
+uvicorn
