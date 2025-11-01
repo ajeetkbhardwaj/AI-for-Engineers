@@ -1,5 +1,7 @@
 # AI for Engineers
 
+This repository is a collection of projects, notes, and best practices for building and deploying robust AI and Machine Learning systems. It covers everything from the core components of modern LLM applications to the practical tools and MLOps principles required to bring them to life.
+
 ### Core Components of an LLM Application
 
 1. Adding RAG (Retrieval-Augmented Generation): This is a key technique for connecting an LLM to your specific data. The process includes:
@@ -15,6 +17,9 @@
    - Multi-Agent Systems: Using AgentWorkflow to enable multiple agents to collaborate.
    - Control Flow: Implementing logic like looping, branching, and concurrent execution.
    - State Management: Creating stateful workflows that remember information across steps.
+
+
+
 
 ## Resources
 
