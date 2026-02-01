@@ -1,8 +1,3 @@
-
-
-
-
-
 """
 Multi-Agentic System for AI Agents 
 @codebase : https://microsoft.github.io/autogen/0.2/docs/Use-Cases/agent_chat
